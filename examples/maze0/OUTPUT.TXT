@@ -1,0 +1,114 @@
+Enter the number of Players? 3
+
+Enter name of the Player #1: Ross
+
+Enter name of the Player #2: Monica
+
+Enter name of the Player #3: Joey
+
+	======================================
+		Ross's turn.		
+	======================================
+Ross's turn to throw the dice. Just hit enter.
+
+Ross's dice throw is 2
+Ross can move 2 nodes.
+Ross is currently at node A of the maze game
+You can go North  or East
+What is your choice? E
+
+Ross is currently at node B of the maze game
+You can go North  or East or West.
+What is your choice? E
+
+	======================================
+		Monica's turn.		
+	======================================
+Monica's turn to throw the dice. Just hit enter.
+
+Monica's dice throw is 6
+Monica can move 6 nodes.
+Monica is currently at node A of the maze game
+You can go North  or East
+What is your choice? E
+
+Monica is currently at node B of the maze game
+You can go North  or East or West.
+What is your choice? E
+
+Monica is currently at node C of the maze game
+You can go North  or East or West.
+What is your choice? N
+
+Monica is currently at node F of the maze game
+You can go North  or East or South  or West.
+What is your choice? E
+
+Monica is currently at node E of the maze game
+You can go North  or South  or West.
+What is your choice? S
+
+Monica is currently at node D of the maze game
+You can go North  or West.
+What is your choice? W
+
+	======================================
+		Joey's turn.		
+	======================================
+Joey's turn to throw the dice. Just hit enter.
+
+Joey's dice throw is 6
+Joey can move 6 nodes.
+Joey is currently at node A of the maze game
+You can go North  or East
+What is your choice? E
+
+Joey is currently at node B of the maze game
+You can go North  or East or West.
+What is your choice? E
+
+Joey is currently at node C of the maze game
+You can go North  or East or West.
+What is your choice? E
+
+Joey is currently at node D of the maze game
+You can go North  or West.
+What is your choice? N
+
+Joey is currently at node E of the maze game
+You can go North  or South  or West.
+What is your choice? N
+
+Joey is currently at node I of the maze game, and you have been taken to B. Now 
+You can go North  or East or West.
+What is your choice? E
+
+	======================================
+		Ross's turn.		
+	======================================
+Ross's turn to throw the dice. Just hit enter.
+
+Ross's dice throw is 6
+Ross can move 6 nodes.
+Ross is currently at node C of the maze game
+You can go North  or East or West.
+What is your choice? Q  
+
+Invalid Option.
+Ross is currently at node C of the maze game
+You can go North  or East or West.
+What is your choice? N
+
+Ross is currently at node F of the maze game
+You can go North  or East or South  or West.
+What is your choice? W
+
+Ross is currently at node G of the maze game, and you have been taken to K. Now 
+You can go East or West.
+What is your choice? W
+
+Congratulations! Ross is the winner. You have reached the destination point.
+
+You took 6 steps.
+The node you path are  A B C F G K L
+

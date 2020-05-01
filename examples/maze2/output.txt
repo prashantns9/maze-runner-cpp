@@ -1,0 +1,65 @@
+
+Enter the number of Players? 2
+
+Enter name of the Player #1: ROss
+
+Enter name of the Player #2: Rachel
+
+	======================================
+		ROss's turn.		
+	======================================
+ROss's turn to throw the dice. Just hit enter.
+
+ROss's dice throw is 3
+ROss can move 3 nodes.
+ROss is currently at node A3 of the maze game
+You can go East
+What is your choice? E
+
+ROss is currently at node B3 of the maze game
+You can go North  or East or West.
+What is your choice? N
+
+ROss is currently at node B4 of the maze game
+You can go North  or East or South  or West.
+What is your choice? N
+
+	======================================
+		Rachel's turn.		
+	======================================
+Rachel's turn to throw the dice. Just hit enter.
+
+Rachel's dice throw is 1
+Rachel can move 1 nodes.
+Rachel is currently at node A3 of the maze game
+You can go East
+What is your choice? E
+
+	======================================
+		ROss's turn.		
+	======================================
+ROss's turn to throw the dice. Just hit enter.
+
+ROss's dice throw is 4
+ROss can move 4 nodes.
+ROss is currently at node B5 of the maze game
+You can go South  or West.
+What is your choice? W
+
+ROss is currently at node A5 of the maze game, and you have been taken to E5. Now , and you have been taken to G4. Now 
+You can go South 
+What is your choice? S
+
+ROss is currently at node G3 of the maze game
+You can go North  or East or West.
+What is your choice? E
+
+ROss is currently at node H3 of the maze game
+You can go East or South  or West.
+What is your choice? E
+
+Congratulations! ROss is the winner. You have reached the destination point.
+
+You took 9 steps.
+The node you path are  A3 B3 B4 B5 A5 E5 G4 G3 H3 I3
+

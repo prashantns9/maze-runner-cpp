@@ -1,0 +1,234 @@
+Enter the number of Players? 2
+
+Enter name of the Player #1: Arya
+
+Enter name of the Player #2: Cersie
+
+	======================================
+		Arya's turn.		
+	======================================
+Arya's turn to throw the dice. Just hit enter.
+
+Arya's dice throw is 1
+Arya can move 1 nodes.
+Arya is currently at node E4 of the maze game
+You can go North  or West.
+What is your choice? N
+
+	======================================
+		Cersie's turn.		
+	======================================
+Cersie's turn to throw the dice. Just hit enter.
+
+Cersie's dice throw is 2
+Cersie can move 2 nodes.
+Cersie is currently at node E4 of the maze game
+You can go North  or West.
+What is your choice? W
+
+Cersie is currently at node D4 of the maze game
+You can go North  or East or West.
+What is your choice? W
+
+	======================================
+		Arya's turn.		
+	======================================
+Arya's turn to throw the dice. Just hit enter.
+
+Arya's dice throw is 5
+Arya can move 5 nodes.
+Arya is currently at node E5 of the maze game
+You can go North  or South 
+What is your choice? N
+
+Arya is currently at node E6 of the maze game
+You can go East or South 
+What is your choice? E
+
+Arya is currently at node F6 of the maze game, and you have been taken to F3. Now 
+You can go North  or East
+What is your choice? E
+
+Arya is currently at node G3 of the maze game
+You can go South  or West.
+What is your choice? W
+
+Arya is currently at node F3 of the maze game
+You can go North  or East
+What is your choice? N
+
+	======================================
+		Cersie's turn.		
+	======================================
+Cersie's turn to throw the dice. Just hit enter.
+
+Cersie's dice throw is 3
+Cersie can move 3 nodes.
+Cersie is currently at node C4 of the maze game, and you have been taken to A5. Now 
+You can go East
+What is your choice? E
+
+Cersie is currently at node B5 of the maze game
+You can go North  or East or South  or West.
+What is your choice? N
+
+Cersie is currently at node B6 of the maze game
+You can go South 
+What is your choice? S
+
+	======================================
+		Arya's turn.		
+	======================================
+Arya's turn to throw the dice. Just hit enter.
+
+Arya's dice throw is 1
+Arya can move 1 nodes.
+Arya is currently at node F4 of the maze game
+You can go North  or South 
+What is your choice? N
+
+	======================================
+		Cersie's turn.		
+	======================================
+Cersie's turn to throw the dice. Just hit enter.
+
+Cersie's dice throw is 5
+Cersie can move 5 nodes.
+Cersie is currently at node B5 of the maze game
+You can go North  or East or South  or West.
+What is your choice? S
+
+Cersie is currently at node B4 of the maze game
+You can go North  or West.
+What is your choice? W
+
+Cersie is currently at node A4 of the maze game
+You can go East or South 
+What is your choice? S
+
+Cersie is currently at node A3 of the maze game
+You can go North  or East
+What is your choice? E
+
+Cersie is currently at node B3 of the maze game, and you have been taken to A2. Now 
+You can go South 
+What is your choice? S
+
+	======================================
+		Arya's turn.		
+	======================================
+Arya's turn to throw the dice. Just hit enter.
+
+Arya's dice throw is 2
+Arya can move 2 nodes.
+Arya is currently at node F5 of the maze game
+You can go East or South 
+What is your choice? E
+
+Arya is currently at node G5 of the maze game
+You can go North  or East or West.
+What is your choice? N
+
+	======================================
+		Cersie's turn.		
+	======================================
+Cersie's turn to throw the dice. Just hit enter.
+
+Cersie's dice throw is 3
+Cersie can move 3 nodes.
+Cersie is currently at node A1 of the maze game, and you have been taken to D1. Now 
+You can go West.
+What is your choice? E
+
+Invalid Option
+Cersie is currently at node D1 of the maze game
+You can go West.
+What is your choice? E
+
+Invalid Option
+Cersie is currently at node D1 of the maze game
+You can go West.
+What is your choice? W
+
+Cersie is currently at node C1 of the maze game
+You can go North  or East or West.
+What is your choice? W
+
+Cersie is currently at node B1 of the maze game
+You can go East
+What is your choice? E
+
+	======================================
+		Arya's turn.		
+	======================================
+Arya's turn to throw the dice. Just hit enter.
+
+Arya's dice throw is 6
+Arya can move 6 nodes.
+Arya is currently at node G6 of the maze game, and you have been taken to G1. Now 
+You can go East or West.
+What is your choice? E
+
+Arya is currently at node H1 of the maze game
+You can go North  or West.
+What is your choice? N
+
+Arya is currently at node H2 of the maze game
+You can go North  or South 
+What is your choice? N
+
+Arya is currently at node H3 of the maze game
+You can go North  or South 
+What is your choice? N
+
+Arya is currently at node H4 of the maze game, and you have been taken to E2. Now 
+You can go South  or West.
+What is your choice? W
+
+Arya is currently at node D2 of the maze game
+You can go North  or East
+What is your choice? N
+
+	======================================
+		Cersie's turn.		
+	======================================
+Cersie's turn to throw the dice. Just hit enter.
+
+Cersie's dice throw is 5
+Cersie can move 5 nodes.
+Cersie is currently at node C1 of the maze game
+You can go North  or East or West.
+What is your choice? N
+
+Cersie is currently at node C2 of the maze game
+You can go North  or South  or West.
+What is your choice? W
+
+Cersie is currently at node B2 of the maze game, and you have been taken to B6. Now 
+You can go South 
+What is your choice? S
+
+Cersie is currently at node B5 of the maze game
+You can go North  or East or South  or West.
+What is your choice? S
+
+Cersie is currently at node B4 of the maze game
+You can go North  or West.
+What is your choice? W
+
+	======================================
+		Arya's turn.		
+	======================================
+Arya's turn to throw the dice. Just hit enter.
+
+Arya's dice throw is 4
+Arya can move 4 nodes.
+Arya is currently at node D3 of the maze game
+You can go East or South  or West.
+What is your choice? E
+
+Congratulations! Arya is the winner. You have reached the destination point.
+
+You took 19 steps.
+The node you path are  E4 E5 E6 F6 F3 G3 F3 F4 F5 G5 G6 G1 H1 H2 H3 H4 E2 D2 D3 E3
+

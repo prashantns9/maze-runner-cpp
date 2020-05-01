@@ -1,0 +1,114 @@
+Enter the number of Players? 2
+
+Enter name of the Player #1: Jon
+
+Enter name of the Player #2: Dany
+
+	======================================
+		Jon's turn.		
+	======================================
+Jon's turn to throw the dice. Just hit enter.
+
+Jon's dice throw is 4
+Jon can move 4 nodes.
+Jon is currently at node A6 of the maze game
+You can go South 
+What is your choice? S
+
+Jon is currently at node A5 of the maze game
+You can go North  or South 
+What is your choice? S
+
+Jon is currently at node A4 of the maze game
+You can go North  or East
+What is your choice? E
+
+Jon is currently at node B4 of the maze game
+You can go North  or South  or West.
+What is your choice? N
+
+	======================================
+		Dany's turn.		
+	======================================
+Dany's turn to throw the dice. Just hit enter.S
+
+Dany's dice throw is 5
+Dany can move 5 nodes.
+Dany is currently at node A6 of the maze game
+You can go South 
+What is your choice? S
+
+Dany is currently at node A5 of the maze game
+You can go North  or South 
+What is your choice? E
+
+Invalid Option
+Dany is currently at node A5 of the maze game
+You can go North  or South 
+What is your choice? S
+
+Dany is currently at node A4 of the maze game
+You can go North  or East
+What is your choice? E
+
+Dany is currently at node B4 of the maze game
+You can go North  or South  or West.
+What is your choice? S
+
+Dany is currently at node B3 of the maze game, and you have been taken to D6. Now 
+You can go East or West.
+What is your choice? W
+
+	======================================
+		Jon's turn.		
+	======================================
+Jon's turn to throw the dice. Just hit enter.
+
+Jon's dice throw is 1
+Jon can move 1 nodes.
+Jon is currently at node B5 of the maze game
+You can go East or South 
+What is your choice? E
+
+	======================================
+		Dany's turn.		
+	======================================
+Dany's turn to throw the dice. Just hit enter.
+
+Dany's dice throw is 6
+Dany can move 6 nodes.
+Dany is currently at node C6 of the maze game
+You can go East or South  or West.
+What is your choice? E
+
+Dany is currently at node D6 of the maze game
+You can go East or West.
+What is your choice? E
+
+Dany is currently at node E6 of the maze game, and you have been taken to G4. Now 
+You can go East or South 
+What is your choice? S
+
+Dany is currently at node G3 of the maze game
+You can go North 
+What is your choice? N
+
+Dany is currently at node G4 of the maze game
+You can go East or South 
+What is your choice? S
+
+Dany is currently at node G3 of the maze game
+You can go North 
+What is your choice? N
+
+	======================================
+		Jon's turn.		
+	======================================
+Jon's turn to throw the dice. Just hit enter.
+
+Jon's dice throw is 3
+Jon can move 3 nodes.
+Jon is currently at node C5 of the maze game
+You can go North  or West.
+What is your choice? ^C
+

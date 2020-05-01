@@ -1,0 +1,138 @@
+ubuntu@ubuntu-pc:/media/ubuntu/New Volume/Workspace/Assignments/Snakes and Ladders/User 2/Code$ g++ maze.cpp
+ubuntu@ubuntu-pc:/media/ubuntu/New Volume/Workspace/Assignments/Snakes and Ladders/User 2/Code$ ./a.out
+
+Enter the number of Players? 3
+
+Enter name of the Player #1: Joey
+
+Enter name of the Player #2: Monica
+
+Enter name of the Player #3: Chandler
+
+	======================================
+		Joey's turn.		
+	======================================
+Joey's turn to throw the dice. Just hit enter.
+
+Joey's dice throw is 4
+Joey can move 4 nodes.
+Joey is currently at node A1 of the maze game
+You can go East
+What is your choice? E
+
+Joey is currently at node B1 of the maze game
+You can go North  or West.
+What is your choice? N
+
+Joey is currently at node B2 of the maze game
+You can go East or South  or West.
+What is your choice? W
+
+Joey is currently at node A2 of the maze game
+You can go North  or East
+What is your choice? N
+
+	======================================
+		Monica's turn.		
+	======================================
+Monica's turn to throw the dice. Just hit enter.
+
+Monica's dice throw is 2
+Monica can move 2 nodes.
+Monica is currently at node A1 of the maze game
+You can go East
+What is your choice? E
+
+Monica is currently at node B1 of the maze game
+You can go North  or West.
+What is your choice? N
+
+	======================================
+		Chandler's turn.		
+	======================================
+Chandler's turn to throw the dice. Just hit enter.
+
+Chandler's dice throw is 4
+Chandler can move 4 nodes.
+Chandler is currently at node A1 of the maze game
+You can go East
+What is your choice? E
+
+Chandler is currently at node B1 of the maze game
+You can go North  or West.
+What is your choice? N
+
+Chandler is currently at node B2 of the maze game
+You can go East or South  or West.
+What is your choice? E
+
+Chandler is currently at node C2 of the maze game
+You can go North  or South  or West.
+What is your choice? S
+
+	======================================
+		Joey's turn.		
+	======================================
+Joey's turn to throw the dice. Just hit enter.
+
+Joey's dice throw is 3
+Joey can move 3 nodes.
+Joey is currently at node A3 of the maze game, and you have been taken to D3. Now 
+You can go North  or South  or West.
+What is your choice? S
+
+Joey is currently at node D2 of the maze game
+You can go North  or East
+What is your choice? E
+
+Joey is currently at node E2 of the maze game
+You can go South  or West.
+What is your choice? S
+
+	======================================
+		Monica's turn.		
+	======================================
+Monica's turn to throw the dice. Just hit enter.
+
+Monica's dice throw is 2
+Monica can move 2 nodes.
+Monica is currently at node B2 of the maze game
+You can go East or South  or West.
+What is your choice? W
+
+Monica is currently at node A2 of the maze game
+You can go North  or East
+What is your choice? N
+
+	======================================
+		Chandler's turn.		
+	======================================
+Chandler's turn to throw the dice. Just hit enter.
+
+Chandler's dice throw is 6
+Chandler can move 6 nodes.
+Chandler is currently at node C1 of the maze game
+You can go North  or East
+What is your choice? E
+
+Chandler is currently at node D1 of the maze game, and you have been taken to G3. Now 
+You can go North  or East
+What is your choice? N
+
+Chandler is currently at node G4 of the maze game
+You can go North  or South  or West.
+What is your choice? N
+
+Chandler is currently at node G5 of the maze game
+You can go East or South 
+What is your choice? E
+
+Chandler is currently at node H5 of the maze game
+You can go North  or West.
+What is your choice? N
+
+Congratulations! Chandler is the winner. You have reached the destination point.
+
+You took 10 steps.
+The node you path are  A1 B1 B2 C2 C1 D1 G3 G4 G5 H5 H6
+
