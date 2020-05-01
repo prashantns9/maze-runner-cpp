@@ -1,16 +1,11 @@
 # maze-runner-cpp
-The game from our childhood implemented using Socket.io. Server is built with Nodejs and Client using Angular. Socket.io acts as an intermediate between the two. 
+A console based multiplayer game built with C++ which implements graph data structure heavily to represent the game board. The game board has nodes where each node is connected to 4 other nodes and a pothole node. A player has to reach from source node to destination node. While moving if player falls into pothole he is taken far away from destination node.
 
 ---
 
 * ## How to play
 
-    - Visit https://rock-paper-scissors-prashant.herokuapp.com
-
-    - One player creates a room with a unique name.
-
-    - The game starts as soon as any other player joins the same room.
-
+    - When you compile and run the code the game configures the board by default as represented in file /examples/maze0/CONFIG.TXT
 ---
 
 
